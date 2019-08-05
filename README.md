@@ -202,7 +202,8 @@ The GPIO pinout is the same as the RPi Model A/B, so it was pretty easy to figur
 
 The remote I was using had separate "on" and "off" buttons, of values `1` and `255` respectively, which is why I didn't make a toggle portion of my program.
 
-![Working!](https://i.gyazo.com/7b71b17713efd810f77512d742e31b33.gif)
+To see it work:
+[https://i.gyazo.com/7b71b17713efd810f77512d742e31b33.gif](https://i.gyazo.com/7b71b17713efd810f77512d742e31b33.gif)
 
 
 ___
