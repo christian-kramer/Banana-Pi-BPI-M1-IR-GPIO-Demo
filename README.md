@@ -9,7 +9,7 @@ For those of you who remember it, the Banana Pi BPI-M1 was the very first Raspbe
 
 *Raspberry Pi Model B (above)*
 
-![Banana Pi BPI-M1](http://www.banana-pi.org/images/bpi-images/M1/m14.jpg)
+![Banana Pi BPI-M1](https://i.imgur.com/4YYSG0G.png)
 
 *Banana Pi BPI-M1 (above)*
 
